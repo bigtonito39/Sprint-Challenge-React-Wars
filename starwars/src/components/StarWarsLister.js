@@ -11,12 +11,13 @@ const Cards = styled.div`
 width: 100%;
 border: solid gold 3px;
 background-color: black;
-padding:4%;
-font-size:1rem;
+padding:10px;
+font-size:0.9rem;
 opacity: 0.6;
 border-radius:15px;
 color: white;
 margin-top:2%;
+flex: 7;
 
 `
 
